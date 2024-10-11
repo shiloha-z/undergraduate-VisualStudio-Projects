@@ -1,0 +1,5 @@
+# 忽略所有 .vs 文件夹
+.vs/
+OpenCV/.vs/
+OpenCV/License_plate_recognition/.vs/
+OpenCV/opencv_learn/.vs/

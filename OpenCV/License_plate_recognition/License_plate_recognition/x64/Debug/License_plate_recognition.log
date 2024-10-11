@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\VirtualStudio Repo\License_plate_recognition\License_plate_recognition\源.cpp(31,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  License_plate_recognition.vcxproj -> D:\VirtualStudio Repo\License_plate_recognition\x64\Debug\License_plate_recognition.exe

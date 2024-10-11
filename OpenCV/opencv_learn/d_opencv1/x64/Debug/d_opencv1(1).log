@@ -1,0 +1,11 @@
+﻿  源.cpp
+D:\VirtualStudio Repo\d_opencv1\d_opencv1\源.cpp(149,56): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\VirtualStudio Repo\d_opencv1\d_opencv1\源.cpp(191,41): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\VirtualStudio Repo\d_opencv1\d_opencv1\源.cpp(212,41): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\VirtualStudio Repo\d_opencv1\d_opencv1\源.cpp(327,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VirtualStudio Repo\d_opencv1\d_opencv1\源.cpp(443,40): warning C4804: “~”: 在操作中使用类型“bool”不安全
+  d_opencv1.vcxproj -> D:\VirtualStudio Repo\d_opencv1\x64\Debug\d_opencv1.exe
